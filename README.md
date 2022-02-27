@@ -2,4 +2,4 @@
 
 learning 
 
--learn
+- learn
