@@ -2,4 +2,8 @@ This is the first exercise.
 
 Modify to add.
 
+<<<<<<< HEAD
 hhh
+=======
+Nothing
+>>>>>>> dd51843330ab5edeb82a38c2c090ffdab262e940
